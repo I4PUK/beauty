@@ -5,8 +5,8 @@ Here is a project preview:
 
 Title:
 
-![Title][./img/info/beauty_title.png]
+![Title][https://github.com/I4PUK/beauty/tree/master/img/info/beauty_title.png]
 
 Footer
 
-![Title][./img/info/beauty_footer.png]
+![Footer][https://github.com/I4PUK/beauty/tree/master/img/info/beauty_footer.png]
