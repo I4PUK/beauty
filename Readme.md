@@ -5,8 +5,9 @@ Here is a project preview:
 
 Title:
 
-![Title][https://github.com/I4PUK/blob/beauty/master/img/info/beauty_title.png?raw=true]
+![![beauty_title](https://user-images.githubusercontent.com/47809649/134399676-14f40a11-0c88-4e56-a5d1-73f405c7dfa6.png)
 
 Footer
 
-![Footer][https://github.com/I4PUK/blob/beauty/master/img/info/beauty_footer.png?raw=true]
+![beauty_footer](https://user-images.githubusercontent.com/47809649/134399710-54e262c3-b03a-44bf-acd9-79e2e386db8e.png)
+
